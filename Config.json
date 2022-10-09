@@ -1,0 +1,10 @@
+{
+
+  "EmailSenderSettings": {
+    "ServerAddress": "allow202208@126.com",
+    "ServerPort": 25,
+    "ServerHost": "smtp.126.com",
+    "ServerPassword": "XGGSMHWHOXUSKDPM"
+  }
+}
+
